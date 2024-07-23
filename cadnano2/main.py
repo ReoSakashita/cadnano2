@@ -8,7 +8,7 @@ Created by Shawn Douglas on 2010-09-26.
 
 import sys
 import os
-import pkg_resources  # type: ignore # part of setuptools
+import pkg_resources  # part of setuptools
 sys.path.insert(0, '.')
 from . import cadnano
 
